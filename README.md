@@ -58,7 +58,7 @@ The arm is assembled and its joints are driven by the printed reducers. The rest
 
 ---
 
-Team Tartarus: Shakhnur Oralbek (team leader), Saltanat Tolegen<br>
+Team Tartarus: Shakhnur Oralbek (team leader), Saltanat Tolegen, Akniet Moldakerimov<br>
 My part: designed and 3D-printed the joint reducers, wired the electronics<br>
 Supervisor: Nikolay Avdyunin, NIS Taldykorgan<br>
 The reducer profile was calculated with the open script by [TrashRobotics](https://codeberg.org/TrashRobotics)
